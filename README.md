@@ -32,6 +32,8 @@ An example of a historical performance graph is provided below - charts should b
 
 •	Store user history. The user should be able to see his previous selections and also visualize the previously generating graphs/charts for those selections. You can further enhance this feature by comparing the different stocks you looked at.
 
+•	You can get historical data of stocks from Yahoo Finance or other sources on the web. Or you can use a Python module like this one here - https://pypi.python.org/pypi/yahoo-finance
+
 ##What you are encouraged to use
 1.	Django
 2.	ReactJS
