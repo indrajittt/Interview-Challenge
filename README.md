@@ -5,13 +5,13 @@ Welcome to the AKJ technical challenge! If you are someone who is looking to be 
 ##Basics 
 The rules of this challenge are simple –
 
-•	Your code should be commented
+•	What you make should satisfy the challenge statement.	
 
-•	We at AKJ, take code organization quite seriously, so please do ensure your source files are organized when you submit
+•	Your code should be human readable and beautiful.
 
-•	Please complete the code in your local repository and email a patch file / the link to info.theakjgroup@gmail.com
+•	We at AKJ, take code organization and application architecture quite seriously.
 
-•	Please note that you will also be judged on the elegance of your code, level of abstraction and technical skills presented in the implementation. For more details, refer to the Judging Criteria section below.
+•	Please complete the code in your own github repository and submit a pull request or submit the link to info.theakjgroup@gmail.com
 
 ##The Challenge
 ###What You’ll need to build:
@@ -23,10 +23,12 @@ Requirements:
 
 •	Once logged in he should be able to select from a stocks list (provided in file Stocks List.xlsx) 
 
-•	Backend algorithm will return some weights (use some dummy weights for now) for this portfolio. You are encouraged to build your own heuristics for weights.
+•	In the ideal scenario, backend algorithm will return some weights (use some dummy weights for now) for this portfolio. You are encouraged to build your own heuristics for weights. In the simplst case, you can even assume an equal distribution.
 
 •	Historical performance charts of the chosen portfolio vs individual stocks will be displayed in a time series (user selected time range) which will change depending upon the portfolio user selects.
 An example of a historical performance graph is provided below- charts should be highly intuitive and interactive making the user experience a smooth one. 
+
+https://www.dropbox.com/s/9w6q5rc2fbzywr9/Graph.PNG?dl=0
  
 •	Store user history. The user should be able to see his previous selections and also visualize the previously generating graphs/charts for those selections. You can further enhance this feature by comparing the different stocks you looked at.
 
@@ -36,9 +38,8 @@ An example of a historical performance graph is provided below- charts should be
 3.	PostgreSQL
 
 ##Judging Criteria
-•	What you have produced will determine your final outcome
+•	What you have produced will determine your final outcome. If you like using the app, we will probably love it too, and vice versa. Please do note that the requirements above are not set in stone. If there is a featurw you hate or want, please feel free to take a decision on your own. But we are looking for a kick-ass mini product. Please don't send us something even you can't use. 
 
-•	Responsive and creative design, appropriateness of error messages, etc. 
+•	Creativity. the challenge is intentionally left open ended. These are the kinds of open ended challenges you will face on the job too :)
 
-•	Historical graph should have low latency with large number of data points
-
+•	Code readability and organization. We can't stress this enough.
