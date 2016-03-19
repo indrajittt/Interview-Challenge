@@ -21,14 +21,15 @@ Requirements:
 
 •	Portal login functionality – user should be able to login / logout of the interface.
 
-•	Once logged in he should be able to select from a stocks list (provided in file [stocks list file](https://github.com/Investak/Interview-Challenge/blob/master/Stock%20List.xlsx) 
+•	Once logged in he should be able to select from a stocks list (provided in file [stocks list file](https://github.com/Investak/Interview-Challenge/blob/master/Stock%20List.xlsx))
 
 •	In the ideal scenario, backend algorithm will return some weights (use some dummy weights for now) for this portfolio. You are encouraged to build your own heuristics for weights. In the simplst case, you can even assume an equal distribution.
 
 •	Historical performance charts of the chosen portfolio vs individual stocks will be displayed in a time series (user selected time range) which will change depending upon the portfolio user selects.
 An example of a historical performance graph is provided below - charts should be highly intuitive and interactive making the user experience a smooth one. 
-![Example](http://i.imgur.com/SfUwj92.png)
- 
+
+![Imgur](http://i.imgur.com/r6PcUCP.png?1)
+
 •	Store user history. The user should be able to see his previous selections and also visualize the previously generating graphs/charts for those selections. You can further enhance this feature by comparing the different stocks you looked at.
 
 ##What you are encouraged to use
