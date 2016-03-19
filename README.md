@@ -26,9 +26,8 @@ Requirements:
 •	In the ideal scenario, backend algorithm will return some weights (use some dummy weights for now) for this portfolio. You are encouraged to build your own heuristics for weights. In the simplst case, you can even assume an equal distribution.
 
 •	Historical performance charts of the chosen portfolio vs individual stocks will be displayed in a time series (user selected time range) which will change depending upon the portfolio user selects.
-An example of a historical performance graph is provided below- charts should be highly intuitive and interactive making the user experience a smooth one. 
-
-https://www.dropbox.com/s/9w6q5rc2fbzywr9/Graph.PNG?dl=0
+An example of a historical performance graph is provided below - charts should be highly intuitive and interactive making the user experience a smooth one. 
+![Example](http://i.imgur.com/SfUwj92.png)
  
 •	Store user history. The user should be able to see his previous selections and also visualize the previously generating graphs/charts for those selections. You can further enhance this feature by comparing the different stocks you looked at.
 
