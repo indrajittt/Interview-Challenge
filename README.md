@@ -21,7 +21,7 @@ Requirements:
 
 •	Portal login functionality – user should be able to login / logout of the interface.
 
-•	Once logged in he should be able to select from a stocks list (provided in file Stocks List.xlsx) 
+•	Once logged in he should be able to select from a stocks list (provided in file [stocks list file](https://github.com/Investak/Interview-Challenge/blob/master/Stock%20List.xlsx) 
 
 •	In the ideal scenario, backend algorithm will return some weights (use some dummy weights for now) for this portfolio. You are encouraged to build your own heuristics for weights. In the simplst case, you can even assume an equal distribution.
 
